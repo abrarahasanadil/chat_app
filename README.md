@@ -1,3 +1,10 @@
 # chatting application
 
 A chatting application using react js and node js with firebase database and authentication
+
+Features:
+
+1. Google login
+2. End to End texting
+3. Multiple group chats
+4. Time stamp for message
