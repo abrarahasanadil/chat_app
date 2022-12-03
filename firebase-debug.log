@@ -1,0 +1,21 @@
+[debug] [2022-11-20T04:10:40.325Z] ----------------------------------------------------------------------
+[debug] [2022-11-20T04:10:40.328Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2022-11-20T04:10:40.329Z] CLI Version:   11.16.1
+[debug] [2022-11-20T04:10:40.329Z] Platform:      darwin
+[debug] [2022-11-20T04:10:40.330Z] Node Version:  v18.12.1
+[debug] [2022-11-20T04:10:40.333Z] Time:          Sun Nov 20 2022 10:10:40 GMT+0600 (Bangladesh Standard Time)
+[debug] [2022-11-20T04:10:40.333Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-20T04:10:40.345Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-20T04:10:40.347Z] > authorizing via signed-in user (abrarahasanadil@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/abrarahasanadil/Documents/VScode_Projects/Chatapp/chat-app
+
