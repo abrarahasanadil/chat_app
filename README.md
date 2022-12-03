@@ -7,4 +7,4 @@ Features:
 1. Google login
 2. End to End texting
 3. Multiple group chats
-4. Time stamp for message
+4. Time stamp for message sent and received
