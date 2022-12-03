@@ -1,0 +1,16 @@
+.app {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: rgb(196, 213, 232);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.app_body {
+    display: flex;
+    margin-top: -5px;
+    height: 95vh;
+    width: 95vw;
+    box-shadow: 2px 10px 30px 2px rgb(5, 16, 28);
+    border-radius: 20px;
+}
