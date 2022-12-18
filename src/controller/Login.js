@@ -32,7 +32,7 @@ function Login() {
           >
             <div className="logo">
               <img
-                src="https://media-exp1.licdn.com/dms/image/D5603AQGJYxkAylt-sA/profile-displayphoto-shrink_800_800/0/1666722334272?e=1674086400&v=beta&t=2m6xCXRd-4QGgukj14INvXJqnJ6RqT7U9rRxxFPMiIY"
+                src="https://media.licdn.com/dms/image/D5603AQFtqVjQJyvqHA/profile-displayphoto-shrink_800_800/0/1670698430892?e=1676505600&v=beta&t=0Z7KLglPqVNGIODJlxPG4hEVZ8QSvqfsBfU_7TKwwuY"
                 alt=""
               />
             </div>
