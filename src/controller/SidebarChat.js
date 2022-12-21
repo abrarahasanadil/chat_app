@@ -32,7 +32,7 @@ function SidebarChat({ id, name, newChat }) {
         </div>
 
         <div className="sidebar_inbox_details">
-          <h3> {name}</h3>
+          <h3>{name}</h3>
         </div>
       </div>
     </Link>
